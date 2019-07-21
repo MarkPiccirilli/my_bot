@@ -1,0 +1,6 @@
+devel_space: /home/osu/mybot_ws/devel
+install: false
+install_space: /home/osu/mybot_ws/install
+profile: default
+source_space: /home/osu/mybot_ws/src
+workspace: /home/osu/mybot_ws

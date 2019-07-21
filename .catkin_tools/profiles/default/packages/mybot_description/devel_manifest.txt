@@ -1,0 +1,5 @@
+mybot_description
+/home/osu/mybot_ws/devel/.private/mybot_description/cmake.lock /home/osu/mybot_ws/devel/./cmake.lock
+/home/osu/mybot_ws/devel/.private/mybot_description/share/mybot_description/cmake/mybot_descriptionConfig-version.cmake /home/osu/mybot_ws/devel/share/mybot_description/cmake/mybot_descriptionConfig-version.cmake
+/home/osu/mybot_ws/devel/.private/mybot_description/share/mybot_description/cmake/mybot_descriptionConfig.cmake /home/osu/mybot_ws/devel/share/mybot_description/cmake/mybot_descriptionConfig.cmake
+/home/osu/mybot_ws/devel/.private/mybot_description/lib/pkgconfig/mybot_description.pc /home/osu/mybot_ws/devel/lib/pkgconfig/mybot_description.pc
